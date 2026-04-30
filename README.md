@@ -1,4 +1,4 @@
-#readme.md
+
 Projekt Nexus – Tehnička dokumentacija Izvršni sažetak
 
 Cilj projekta je analiza podataka iz kratera Jezero na Marsu radi izrade automatiziranog navigacijskog sustava. Ulazni podaci uključuju telemetriju (lokacije, uzorke), a izlaz je optimizirani navigacijski nalog za robotsku jedinicu.
